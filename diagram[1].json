@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "author": "Uri Shaked",
-  "editor": "wokwi",
+  "author": "Brandon",
+  "editor": "",
   "parts": [
     {
       "type": "wokwi-dip-switch-8",
